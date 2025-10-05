@@ -18,10 +18,10 @@
 
 ---
 
-every week i want to be either a game developer or a robotics engineer(?)
+every week i want to be either a game developer or designer(?)
 
 <p align="center">
   <img src="https://media1.tenor.com/m/OjRAjpIMj68AAAAC/dogs-waiting.gif" width="600"/>
 </p>
 
-<sub>crafted with by zark0-x</sub>
+<sub>crafted with by asminn-memur</sub>
