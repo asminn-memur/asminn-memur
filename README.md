@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zark0-x&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zark0-x&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asminn-memur&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asminn-memur&layout=compact&theme=radical" />
 </p>
 
 ### 🧠 who im?
